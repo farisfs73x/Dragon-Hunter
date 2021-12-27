@@ -15,5 +15,5 @@
 
 ### <img src="https://raw.githubusercontent.com/farisfs73x/farisfs73x/main/assets/tool.gif" width="30px" height="35px"> Technologies & Tools
 - ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=58a6ff)
-- ![](https://img.shields.io/badge/IDE-NetBeans-informational?style=flat&logo=netbeans&logoColor=white&color=58a6ff)
+- ![](https://img.shields.io/badge/IDE-NetBeans-informational?style=flat&logo=apachenetbeanside&logoColor=white&color=58a6ff)
 - ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=58a6ff)
